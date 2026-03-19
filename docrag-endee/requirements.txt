@@ -1,0 +1,21 @@
+# LangChain core
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+
+# LLM — Groq (free API, fast inference)
+langchain-groq>=0.2.0
+groq>=0.9.0
+
+# Embeddings — HuggingFace (free, local, no API key)
+langchain-huggingface>=0.1.0
+sentence-transformers>=3.0.0
+
+# Document loaders
+pypdf>=4.0.0
+
+# App & utilities
+streamlit>=1.35.0
+python-dotenv>=1.0.0
+requests>=2.31.0
