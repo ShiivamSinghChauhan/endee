@@ -243,18 +243,3 @@ streamlit run app.py
 ```
 
 > Previously ingested vectors persist in Endee's Docker volume — no need to re-ingest.
-
----
-
-## Submission Details
-
-- **Role Applied:** SDE / AI / ML Intern
-- **Endee Repo Starred:** ✅
-- **Endee Repo Forked:** ✅
-- **Submission Deadline:** 19 March 2026, 5 PM
-
----
-
-## License
-
-MIT
